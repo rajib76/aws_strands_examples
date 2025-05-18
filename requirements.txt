@@ -1,0 +1,3 @@
+strands-agents
+python_dotenv
+litellm
